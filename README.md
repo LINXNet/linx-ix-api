@@ -18,5 +18,8 @@ This repo is used for collecting feedback and raising issues against LINX IX-API
 * then click on ```Submit new issue``` 
 
 
-* Finally you can follow your issue under the main issue page.
+* You can follow your issue in the main issue page.
+
+![image](https://user-images.githubusercontent.com/36159638/168048916-9ad5288a-84df-4b29-9879-d5e69e331451.png)
+
 
