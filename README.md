@@ -19,4 +19,8 @@ This repo is used for collecting feedback and raising issues against LINX IX-API
 
 ![image](https://user-images.githubusercontent.com/36159638/168049394-1e260da1-9be7-415b-82d0-0c6ea5754007.png)
 
+## LINX bug bounty program
 
+LINX operates a [closed bug bounty programme](https://www.linx.net/about/policies/vulnerability-disclosure-policy/) that ensures security vulnerabilities are disclosed responsibly whilst potentially rewarding security researchers for their efforts.
+
+Please report security vulnerabilities via this process, ensuring the subject line of your email submission starts with "IX-API."
